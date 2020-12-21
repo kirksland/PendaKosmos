@@ -3,9 +3,10 @@
  __tes tes tes__
 
 45645564
-
-    if ( int test = 3)
-    {
-      echo("test");
-    
-    }
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
